@@ -2,30 +2,9 @@ https://docs.emmet.io/cheat-sheet/  //html cheat codes
 https://fontawesome.com/
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
-[11:57 PM, 7/31/2025] +92 333 2165291: <header>
-  <div class="logo">MyBrand</div>
 
-  <nav>
-    <ul>
-      <li><a href="#">Home</a></li>
-      <li><a href="#">About</a></li>
-      <li><a href="#">Portfolio</a></li>
-      <li><a href="#">Blogs</a></li>
-      <li><a href="#">Contact</a></li>
-    </ul>
-  </nav>
 
-  <div class="header-right">
-    <button class="cta-btn">Sign Up</button>
-    <i class="fas fa-shopping-cart cart-icon"></i>
-  </div>
-</header>
-[12:18 AM, 8/1/2025] +92 333 2165291: <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet" />
-[5:38 PM, 8/2/2025] Osaf Hussain: ASSALAMUALAIKUM
-Sir ap aj available hen ya Monday ko aen
-[7:24 PM, 8/2/2025] +92 333 2165291: Ws
-[7:24 PM, 8/2/2025] +92 333 2165291: Monday
-[12:24 AM, 8/12/2025] +92 333 2165291: .outer-wrapper{
+.outer-wrapper{
 justify-content: center;
 }
 
