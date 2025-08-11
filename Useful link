@@ -1,2 +1,4 @@
 https://docs.emmet.io/cheat-sheet/  //html cheat codes
 https://fontawesome.com/
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700&display=swap">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.0/css/all.min.css">
